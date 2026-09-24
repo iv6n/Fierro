@@ -1,0 +1,14 @@
+# Dependencies and generated site output
+/site/node_modules/
+/site/.next/
+/site/.netlify/
+/site/dist/
+/site/build/
+
+# Local environment files; keep documented examples
+/site/.env*
+!/site/.env.example
+
+# Local Codex workspace and transfer artifacts
+/work/
+/.codex-remote-attachments/
